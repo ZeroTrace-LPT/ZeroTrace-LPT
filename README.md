@@ -8,7 +8,7 @@
 **Building reliable systems. Learning how to secure them.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZeroTrace--LPT-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroTrace-LPT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B22222?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiaan-visser-5162953a9/)
+
 
 </div>
 
